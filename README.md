@@ -1,4 +1,17 @@
-# __Pumpkinseed analysis__
+__Install these packages inorder to run without errors__:
+```py
+pip install matplotlib
+pip install pandas
+pip install scipy
+pip install ipympl
+pip install jupyter notebook 
+```
+__If you're on ubuntu, install jupyter notebook via:__
+```py
+sudo apt-get install jupyter
+```
+# Our result and analysis
+## __Pumpkinseed analysis__
 By Jakob Adamsson and Emil Gullbrandsson
 ## __Introduction:__
 We have chosen to analyse pumpkinseeds, we are going to investigate the roundness,compactness and solidity relations using __[this](https://www.kaggle.com/mkoklu42/pumpkin-seeds-dataset?select=Pumpkin_Seeds_Dataset.arff)__ dataset.
